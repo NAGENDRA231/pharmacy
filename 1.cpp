@@ -13,7 +13,7 @@ public:
         cout << "||\t\t    USER AUTHENTICATION                    ||" << endl;
         cout << "=============================================================" << endl;
     }
-    void login()    
+    void login()
     {
         cout << "Enter Username: ";
         cin >> username;
